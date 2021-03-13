@@ -1,0 +1,7 @@
+{
+ "neural network topology": "[5,50,200,100,200,100,50,10,1]",
+ "loss": "mean squared error",
+ "optimizer": "adam",
+ "epochs": 20,
+ "validation split": 0.2
+}
