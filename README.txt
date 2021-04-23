@@ -4,4 +4,5 @@ The focus of this class is learning how to employ neural networks to solve probl
 Prerequisits:
 
 You need to have access to a way to run Juipter notebooks. 
-You will need to have python installed along with numpy, matplotlib, and tensorflow. 
+You will need to have python installed along with numpy, matplotlib, tensorflow, scikit, and viznet.
+You should also make sure you have the include folder in your path when running the code. 
